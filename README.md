@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lilly-0921
 - 👀 I’m interested in data analyst, data visualization and data science subjects. 
-- 🌱 I’m currently learning data analysis & machine learning & deep learning & feature engineering 
+- 🌱 I keep learning data analysis & business intelligence & machine learning & feature engineering 
 - 💞️ I’m looking to collaborate on improving my coding skillks and good sense of number. 
 - 📫 Feel free to reach me anytime...
 
