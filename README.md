@@ -47,7 +47,7 @@ With a background in **data analytics and business intelligence**, I have experi
 - Collected and cleaned covid cases data, across countries & regions in a time series.  
 - Built **interactive dashboard** using R shiny, ggplot, etc.
 - 
-### **2️⃣ [Facial-Expression-Detection] (https://github.com/Lilly-0921/Facial-Detection)  
+### **2️⃣ [Facial-Expression-Detection](https://github.com/Lilly-0921/Facial-Detection)**
 - 🎬 Collected and cleaned **image** data to analyze face features 
 - 📊 Performed **exploratory data analysis (EDA)** and visualized insights using **Matplotlib & Seaborn**  
 - 🤖 Built **predictive models** to estimate face expressions based on images data. 
